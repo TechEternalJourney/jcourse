@@ -17,6 +17,12 @@
             </div>
         </nav>
     </section>
+    <section id="content">
+        <div>
+            <label for="nama">Nama : </label><br>
+            <input type="text" id="nama">
+        </div>
+    </section>
 
 </body>
 </html>
