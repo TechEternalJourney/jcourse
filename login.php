@@ -23,6 +23,11 @@
             <input type="text" id="nama">
         </div>
     </section>
+    <section id="footer">
+        <footer>
+            <label for=""> Terima kasih telah berkunjung di websiite kami </label>
+        </footer>
+    </section>
 
 </body>
 </html>
